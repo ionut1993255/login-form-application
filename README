@@ -1,0 +1,11 @@
+Welcome to my Login Form !!!
+
+This is a simple login form that I made in React for usage in future projects.
+I used a simple validation for the password input and after the login I remove 
+the input form and I show the user an element that allows a logout.
+
+I made use of React Context to use the same state in different components.
+
+Check out the custom favicon *wink *wink
+
+Hope you enjoy !!!
