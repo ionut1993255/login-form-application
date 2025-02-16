@@ -6,7 +6,7 @@ the input form and I show the user an element that allows a logout.
 
 I made use of React Context to use the same state in different components.
 
-Check out the custom favicon *wink *wink
+Check out the custom favicon 😉
 
 Here you can see my project in action: https://login-form-application.netlify.app/
 
